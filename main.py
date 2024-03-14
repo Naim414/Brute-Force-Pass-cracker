@@ -14,7 +14,7 @@ print("""
 ██████  ██   ██  ██████     ██    ███████     ██       ██████  ██   ██  ██████ ███████                                                            
 
                    Naim Hasan
-           https://github.com/Naim414
+    https://github.com/Naim414/Brute-Force-Pass-cracker/tree/main
 
 
 """)
